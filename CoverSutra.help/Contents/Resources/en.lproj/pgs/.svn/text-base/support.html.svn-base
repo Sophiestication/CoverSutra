@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	
+<title>Tips for getting the best support experience</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topicid" content="support" />
+<meta name="keywords" content="support,help,transcript,log"/>
+<meta name="description" content=""/>	
+<link href="../sty/task_multi.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body id="apple-pd">
+<!--top navigation area-->
+	<div id="navbox" class="gradient">
+		<a name="support"></a>
+		<div id="navleftbox">
+			<a class="navlink_left" href="help:anchor='access' bookID=com.sophiestication.mac.CoverSutra.help">Home</a>
+		</div>
+	</div><!--closes top navigation area-->
+		
+	<!--page head-->
+	<div id="headerbox">
+		<div id="iconbox">
+			<img id="iconimg" src="../../Shared/CoverSutraHelp.png" alt="CoverSutra Help Icon" height="32" width="32" />
+		</div>
+		<div id="pagetitle">
+			<h1>Tips for getting the best support experience</h1>
+		</div>
+	</div><!--closes page header-->
+	
+	<div id="introbox">
+		<div class="introprimtext">
+<!-- 			Stack paragraphs below, all with this classname -->
+			<p class="introprimtextlongtext">
+		Technical support for CoverSutra is provided via email.  Our support address is support@sophiestication.com
+</p>
+<!-- 			Stack paragraphs below, all with this classname -->
+			<p class="introprimtextlongtext">
+		
+In your email, please mention the version of CoverSutra you are using, and the version of Mac OS X.
+</p>
+<!-- 			Stack paragraphs below, all with this classname -->
+			<p class="introprimtextlongtext">
+		
+To get the fastest and most accurate response please describe what you were trying to do, what you expected to happen, and what actually happened.  Also describe any steps you have already taken to try to solve the problem.  The more detail you can provide, the better.
+</p>
+<!-- 			Stack paragraphs below, all with this classname -->
+			<p class="introprimtextlongtext">
+		
+A screenshot of the problem (especially if an error message appears) is almost always helpful in troubleshooting.  Press Command-Shift-3 at any time to take a screenshot.
+</p>
+<!-- 			Stack paragraphs below, all with this classname -->
+			<p class="introprimtextlongtext">
+		
+On Mac OS X 10.6 (Snow Leopard), you can record a movie of your on-screen actions with the QuickTime Player application by choosing File &gt; New Screen Recording.  For more complicated issues, this may help us understand more quickly than a long text explanation, and it saves you the time of writing one.
+</p>
+<!-- 			Stack paragraphs below, all with this classname -->
+			<p class="introprimtextlongtext">
+		
+For hanging issues (CoverSutra becomes unresponsive with a spinning rainbow cursor), please use Applications &gt; Utilities &gt; Activity Monitor to obtain a sample of the CoverSutra process, and attach that sample to your email.
+</p>
+<!-- 			Stack paragraphs below, all with this classname -->
+			<p class="introprimtextlongtext">
+		
+For crashing issues (CoverSutra has unexpectedly quit), please copy and paste the crash report that appears into your email.
+</p>
+<!-- 			Stack paragraphs below, all with this classname -->
+			<p class="introprimtextlongtext">
+		
+</p>
+
+		</div><!--closes introprimtext-->
+	</div> <!--closes introbox -->
+
+
+
+</body>
+</html>

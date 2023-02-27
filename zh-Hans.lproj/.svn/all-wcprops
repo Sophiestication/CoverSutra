@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/coversutra/!svn/ver/113/trunk/zh-Hans.lproj
+END
+InfoPlist.strings
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coversutra/!svn/ver/113/trunk/zh-Hans.lproj/InfoPlist.strings
+END
+MusicSearchWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coversutra/!svn/ver/94/trunk/zh-Hans.lproj/MusicSearchWindow.xib
+END
+Localizable.strings
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coversutra/!svn/ver/87/trunk/zh-Hans.lproj/Localizable.strings
+END
+MainMenu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coversutra/!svn/ver/87/trunk/zh-Hans.lproj/MainMenu.xib
+END
+PreferencesWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coversutra/!svn/ver/100/trunk/zh-Hans.lproj/PreferencesWindow.xib
+END

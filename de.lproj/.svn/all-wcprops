@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/coversutra/!svn/ver/113/trunk/de.lproj
+END
+InfoPlist.strings
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coversutra/!svn/ver/113/trunk/de.lproj/InfoPlist.strings
+END
+MusicSearchWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coversutra/!svn/ver/94/trunk/de.lproj/MusicSearchWindow.xib
+END
+Localizable.strings
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coversutra/!svn/ver/87/trunk/de.lproj/Localizable.strings
+END
+MainMenu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coversutra/!svn/ver/87/trunk/de.lproj/MainMenu.xib
+END
+PreferencesWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coversutra/!svn/ver/100/trunk/de.lproj/PreferencesWindow.xib
+END

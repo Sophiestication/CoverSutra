@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Customize the Application Icon</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="topicid" content="setupappicon" />
+<meta name="keywords" content="App Icon,Application Icon,Dock,Menubar,Menu Bar" />
+<meta name="description" content="" />
+<link href="../sty/task_multi.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body id="apple-pd">
+<!--top navigation area-->
+<div id="navbox" class="gradient">
+<a name="setupappicon"></a>
+<div id="navleftbox">
+<a class="navlink_left" href="help:anchor='access' bookID=com.sophiestication.mac.CoverSutra.help">Home</a>
+</div>
+</div><!--closes top navigation area-->
+
+<!--page head-->
+<div id="headerbox">
+<div id="iconbox">
+<img id="iconimg" src="../../Shared/CoverSutraHelp.png" alt="CoverSutra Help Icon" height="32" width="32" />
+</div>
+<div id="pagetitle">
+<h1>Customize the Application Icon</h1>
+</div>
+</div>
+<!--closes page header-->
+<div id="taskbox">
+
+<p>You can choose whether you want CoverSutra to appear in your Dock, as a menu bar item or both. Changing the "Dock" setting requires you to restart CoverSutra and it applies to all users on your Mac.</p>
+
+<div id="taskbox1">
+         <div class="shadow">
+                    <div id="taskframe1">
+                              <div class="taskcontent">
+<div class="taskprimtext">
+<div class="taskprimcontent">
+<p class="taskprimtextlongtext">
+To alter the Application Icon:</p>
+</div><!--closes taskprimcontent-->
+<ol id="taskauxlistnumbered">
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Choose CoverSutra > Preferences… and click General.</p>
+</li>
+
+</div>
+</div>
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Under <strong>Show Application Icon</strong> in select the options you like: <strong>Menu Bar</strong> and/or <strong>Dock</strong>.</p>
+</li>
+
+</div>
+</div>
+</ol><!--closes taskauxlistnumbered-->
+</div><!-- closes taskprimtext -->
+
+                                 </div><!--closes taskcontent-->
+                      </div><!--closes taskframe1-->
+           </div><!--closes shadow-->
+</div><!--closes taskbox1-->
+
+</div><!--closes taskbox -->
+<div id="rule">
+    <div id="ruleshadow1">
+        <div id="ruleshadow2">
+            <div id="line"></div><!--closes line-->
+        </div><!--closes rulehshadow2--> 
+    </div><!--closes ruleshadow1-->
+</div><!-- closes rule-->
+</body>
+</html>

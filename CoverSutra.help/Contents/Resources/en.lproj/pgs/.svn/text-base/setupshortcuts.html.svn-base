@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Creating Global Keyboard Shortcuts</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="topicid" content="setupshortcuts" />
+<meta name="keywords" content="Keyboard,Shortcut,Hotkey,Key Combination" />
+<meta name="description" content="" />
+<link href="../sty/task_multi.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body id="apple-pd">
+<!--top navigation area-->
+<div id="navbox" class="gradient">
+<a name="setupshortcuts"></a>
+<div id="navleftbox">
+<a class="navlink_left" href="help:anchor='access' bookID=com.sophiestication.mac.CoverSutra.help">Home</a>
+</div>
+</div><!--closes top navigation area-->
+
+<!--page head-->
+<div id="headerbox">
+<div id="iconbox">
+<img id="iconimg" src="../../Shared/CoverSutraHelp.png" alt="CoverSutra Help Icon" height="32" width="32" />
+</div>
+<div id="pagetitle">
+<h1>Creating Global Keyboard Shortcuts</h1>
+</div>
+</div>
+<!--closes page header-->
+<div id="taskbox">
+
+<p>	CoverSutra allows you to set up Key Combinations for a variety of functions to control iTunes. These keyboard Shortcuts are global, so you can use them while working in any application you like.
+
+	Any Key Combination made in the System Preferences application override CoverSutra shortcuts. Try to use a Key Combination that is not already being used.</p>
+
+<div id="taskbox1">
+         <div class="shadow">
+                    <div id="taskframe1">
+                              <div class="taskcontent">
+<div class="taskprimtext">
+<div class="taskprimcontent">
+<p class="taskprimtextlongtext">
+To set up Shortcuts:</p>
+</div><!--closes taskprimcontent-->
+<ol id="taskauxlistnumbered">
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Choose CoverSutra > Preferences… and click Shortcuts.</p>
+</li>
+
+</div>
+</div>
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Locate the action you would like to apply a Shortcut.</p>
+</li>
+
+</div>
+</div>
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber"><strong>To define a Shortcut:</strong> Click into the Shortcut Recorder Control and type in the Key Combination you would like to use.<br/><strong>To remove:</strong> Click the small gray close button on the Shortcut Recorder Control.</p>
+</li>
+
+</div>
+</div>
+</ol><!--closes taskauxlistnumbered-->
+<p>Note: You can disable all shortcuts by choosing Disable Shortcuts from the status item menu.</p>
+</div><!-- closes taskprimtext -->
+
+                                 </div><!--closes taskcontent-->
+                      </div><!--closes taskframe1-->
+           </div><!--closes shadow-->
+</div><!--closes taskbox1-->
+
+</div><!--closes taskbox -->
+
+<div id="rule">
+    <div id="ruleshadow1">
+        <div id="ruleshadow2">
+            <div id="line"></div><!--closes line-->
+        </div><!--closes rulehshadow2--> 
+    </div><!--closes ruleshadow1-->
+</div><!-- closes rule-->
+</body>
+</html>

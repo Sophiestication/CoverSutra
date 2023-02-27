@@ -1,0 +1,23 @@
+//
+//  Launcher.h
+//  CoverSutraAgent
+//
+//  Created by Sophia Teutschler on 19.09.08.
+//  Copyright 2008 Sophiestication Software. All rights reserved.
+//
+
+#import <Cocoa/Cocoa.h>
+
+@interface SCLauncher : NSObject {
+@private
+	BOOL _needsToTerminateAgent;
+}
+
+@property(readonly, nonatomic) BOOL launchAutomatically;
+@property(readonly, nonatomic) BOOL terminateAutomatically;
+
+@property(nonatomic) BOOL needsToTerminateAgent;
+
+- (void)launchCoverSutraIfNeeded;
+
+@end

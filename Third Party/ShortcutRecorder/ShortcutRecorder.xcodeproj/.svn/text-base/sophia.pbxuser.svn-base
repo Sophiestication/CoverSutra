@@ -1,0 +1,145 @@
+// !$*UTF8*$!
+{
+	0B8E29C309CDB9360085E9ED /* ShortcutRecorderCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2390, 18830}}";
+			sepNavSelRange = "{14642, 0}";
+			sepNavVisRect = "{{0, 6064}, {1126, 514}}";
+		};
+	};
+	0B8E29DA09CDB9720085E9ED /* Palette */ = {
+		activeExec = 0;
+	};
+	0B8E2A3A09CDBBA30085E9ED /* ShortcutRecorderInspector.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1204, 518}}";
+			sepNavSelRange = "{221, 46}";
+			sepNavVisRect = "{{0, 0}, {1204, 514}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = EC824A620CE4EBA50059B91F /* ShortcutRecorder */;
+		activeTarget = 0B8E29DA09CDB9720085E9ED /* Palette */;
+		codeSenseManager = EC824A770CE4EBC30059B91F /* Code sense */;
+		executables = (
+			EC824A620CE4EBA50059B91F /* ShortcutRecorder */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1000,
+					20,
+					48.1626,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 216331920;
+			PBXWorkspaceStateSaveDate = 216331920;
+		};
+		perUserProjectItems = {
+			EC2171BA0CE4F6CE006A3BF2 /* PBXTextBookmark */ = EC2171BA0CE4F6CE006A3BF2 /* PBXTextBookmark */;
+			EC824A830CE4EC380059B91F /* PBXTextBookmark */ = EC824A830CE4EC380059B91F /* PBXTextBookmark */;
+			EC824A850CE4EC380059B91F /* PBXTextBookmark */ = EC824A850CE4EC380059B91F /* PBXTextBookmark */;
+			EC824A8D0CE4ECBF0059B91F /* PBXTextBookmark */ = EC824A8D0CE4ECBF0059B91F /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC824A760CE4EBC30059B91F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* ShortcutRecorder */ = {
+		activeExec = 0;
+		executables = (
+			EC824A620CE4EBA50059B91F /* ShortcutRecorder */,
+		);
+	};
+	EC2171BA0CE4F6CE006A3BF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B8E29C309CDB9360085E9ED /* ShortcutRecorderCell.m */;
+		name = "ShortcutRecorderCell.m: 452";
+		rLen = 0;
+		rLoc = 14642;
+		rType = 0;
+		vrLen = 986;
+		vrLoc = 13954;
+	};
+	EC824A620CE4EBA50059B91F /* ShortcutRecorder */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ShortcutRecorder;
+		sourceDirectories = (
+		);
+	};
+	EC824A760CE4EBC30059B91F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	EC824A770CE4EBC30059B91F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC824A830CE4EC380059B91F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B8E2A3A09CDBBA30085E9ED /* ShortcutRecorderInspector.h */;
+		name = "#import <InterfaceBuilder/InterfaceBuilder.h>";
+		rLen = 46;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 0;
+	};
+	EC824A850CE4EC380059B91F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B8E2A3A09CDBBA30085E9ED /* ShortcutRecorderInspector.h */;
+		name = "#import <InterfaceBuilder/InterfaceBuilder.h>";
+		rLen = 46;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 0;
+	};
+	EC824A8D0CE4ECBF0059B91F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B8E29C309CDB9360085E9ED /* ShortcutRecorderCell.m */;
+		name = "ShortcutRecorderCell.m: 452";
+		rLen = 0;
+		rLoc = 14642;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 14108;
+	};
+}

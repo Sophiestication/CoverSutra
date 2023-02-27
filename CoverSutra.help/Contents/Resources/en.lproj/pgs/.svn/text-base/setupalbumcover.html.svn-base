@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Display the Album Cover</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="topicid" content="setupalbumcover" />
+<meta name="keywords" content="Album Cover,Album,Cover,Artwork,Art,Jewelcase,Vinyl,Case" />
+<meta name="description" content="" />
+<link href="../sty/task_multi.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body id="apple-pd">
+<!--top navigation area-->
+<div id="navbox" class="gradient">
+<a name="setupalbumcover"></a>
+<div id="navleftbox">
+<a class="navlink_left" href="help:anchor='access' bookID=com.sophiestication.mac.CoverSutra.help">Home</a>
+</div>
+</div><!--closes top navigation area-->
+
+<!--page head-->
+<div id="headerbox">
+<div id="iconbox">
+<img id="iconimg" src="../../Shared/CoverSutraHelp.png" alt="CoverSutra Help Icon" height="32" width="32" />
+</div>
+<div id="pagetitle">
+<h1>Display the Album Cover</h1>
+</div>
+</div>
+<!--closes page header-->
+<div id="taskbox">
+
+<p>You can set up CoverSutra to display a neat Album Cover on your desktop. It displays the album artwork of the currently playing song.</p>
+
+<div id="taskbox1">
+         <div class="shadow">
+                    <div id="taskframe1">
+                              <div class="taskcontent">
+<div class="taskprimtext">
+<div class="taskprimcontent">
+<p class="taskprimtextlongtext">
+To display the Album Cover:</p>
+</div><!--closes taskprimcontent-->
+<ol id="taskauxlistnumbered">
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Choose CoverSutra > Preferences… and click Album Cover.</p>
+</li>
+
+</div>
+</div>
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Click <strong>Album Cover on desktop</strong>.</p>
+</li>
+
+</div>
+</div>
+</ol><!--closes taskauxlistnumbered-->
+</div><!-- closes taskprimtext -->
+
+                                 </div><!--closes taskcontent-->
+                      </div><!--closes taskframe1-->
+           </div><!--closes shadow-->
+</div><!--closes taskbox1-->
+
+<div id="taskbox2">
+         <div class="shadow">
+                    <div id="taskframe2">
+                              <div class="taskcontent">
+<div class="taskprimtext">
+<div class="taskprimcontent">
+<p class="taskprimtextlongtext">
+To alter it's position:</p>
+</div><!--closes taskprimcontent-->
+<ol id="taskauxlistnumbered">
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Locate the Album Cover on your desktop.</p>
+</li>
+
+</div>
+</div>
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Drag and Drop to the desired position.</p>
+</li>
+</div>
+</div>
+</ol><!--closes taskauxlistnumbered-->
+<p>Note: You can also show the Album Cover by choosing Show Album Cover from the status item menu.</p>
+</div><!-- closes taskprimtext -->
+
+                                 </div><!--closes taskcontent-->
+                      </div><!--closes taskframe2-->
+           </div><!--closes shadow-->
+</div><!--closes taskbox2-->
+
+</div><!--closes taskbox -->
+
+<div id="rule">
+    <div id="ruleshadow1">
+        <div id="ruleshadow2">
+            <div id="line"></div><!--closes line-->
+        </div><!--closes rulehshadow2--> 
+    </div><!--closes ruleshadow1-->
+</div><!-- closes rule-->
+</body>
+</html>

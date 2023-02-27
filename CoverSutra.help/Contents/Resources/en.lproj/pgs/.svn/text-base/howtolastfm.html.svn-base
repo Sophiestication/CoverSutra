@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Set up the Last.fm service</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="topicid" content="howtolastfm" />
+<meta name="keywords" content="Last.fm,scrobble,scrobbling" />
+<meta name="description" content="" />
+<link href="../sty/task_multi.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body id="apple-pd">
+<!--top navigation area-->
+<div id="navbox" class="gradient">
+<a name="howtolastfm"></a>
+<div id="navleftbox">
+<a class="navlink_left" href="help:anchor='access' bookID=com.sophiestication.mac.CoverSutra.help">Home</a>
+</div>
+</div><!--closes top navigation area-->
+
+<!--page head-->
+<div id="headerbox">
+<div id="iconbox">
+<img id="iconimg" src="../../Shared/CoverSutraHelp.png" alt="CoverSutra Help Icon" height="32" width="32" />
+</div>
+<div id="pagetitle">
+<h1>Set up the Last.fm service</h1>
+</div>
+</div>
+<!--closes page header-->
+<div id="taskbox">
+
+<p>CoverSutra can scrobble your songs you listen to. You only need an account which you can freely register at <a href="http://www.last.fm/join">Last.fm</a>.</p>
+
+<div id="taskbox1">
+         <div class="shadow">
+                    <div id="taskframe1">
+                              <div class="taskcontent">
+<div class="taskprimtext">
+<div class="taskprimcontent">
+<p class="taskprimtextlongtext">
+To set up your Last.fm account in CoverSutra:</p>
+</div><!--closes taskprimcontent-->
+<ol id="taskauxlistnumbered">
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Choose CoverSutra > Preferences… and click Last.fm.</p>
+</li>
+
+</div>
+</div>
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Locate <strong>Last.fm Member Name</strong> and type in your account name into the adjacent text field.</p>
+</li>
+
+</div>
+</div>
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Locate <strong>Password</strong> and type in your Last.fm password into the adjacent text field.</p>
+</li>
+
+</div>
+</div>
+<div class="taskauxoption">
+<div class="taskauxcontent">
+<li>
+<p class="textlistnumber">Click on <strong>Activate: Last.fm</strong> to activate scrobbling.</p>
+</li>
+
+</div>
+</div>
+</ol><!--closes taskauxlistnumbered-->
+
+<p>Note: You can also enable scrobbling by choosing <strong>Enable Last.fm</strong> from the dock menu.</p>
+
+</div><!-- closes taskprimtext -->
+
+                                 </div><!--closes taskcontent-->
+                      </div><!--closes taskframe1-->
+           </div><!--closes shadow-->
+</div><!--closes taskbox1-->
+
+</div><!--closes taskbox -->
+
+<div id="rule">
+    <div id="ruleshadow1">
+        <div id="ruleshadow2">
+            <div id="line"></div><!--closes line-->
+        </div><!--closes rulehshadow2--> 
+    </div><!--closes ruleshadow1-->
+</div><!-- closes rule-->
+
+<br/>
+
+<h3>What is Scrobbling?</h3>
+<p>Scrobbling a song means that when you listen to it, the name of the song is sent to Last.fm and added to your music profile.</p>
+<p>Once you've <a href="http://www.last.fm/join">signed up</a>, you can scrobble songs you listen to on your computer automatically. Start scrobbling yourself, and see what artists you really listen to the most. Songs you listen to will also appear on your Last.fm profile page for others to see.</p>
+<p>Millions of songs are scrobbled every day. This data helps Last.fm to organise and recommend music to people; we use it to create personalised radio stations, and a lot more besides.</p>
+<p>You can see what Last.fm users listened to the most last week by clicking the Charts button at the top of the page. Add your musical taste into the mix and help us get some decent music into the top 10.</p>
+
+</body>
+</html>

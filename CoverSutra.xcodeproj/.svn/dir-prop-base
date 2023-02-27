@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 97
+sophia.pbxuser
+sophia.perspectivev3
+arepty.mode1v3
+arepty.pbxuser
+project.xcworkspace
+xcuserdata
+
+END

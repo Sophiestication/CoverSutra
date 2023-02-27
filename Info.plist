@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string>Fonts</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>${PRODUCT_NAME}.help</string>
+	<key>CFBundleHelpBookName</key>
+	<string>com.sophiestication.mac.${PRODUCT_NAME}.help</string>
+	<key>CFBundleIconFile</key>
+	<string>CoverSutra.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.sophiestication.mac.${PRODUCT_NAME}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.3.2</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>${PRODUCT_NAME} URL</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>coversutra</string>
+			</array>
+			<key>LSIsAppleDefaultForScheme</key>
+			<true/>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>332</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.music</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.8</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2006-2013 Sophia Teutschler, All Rights reserved.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>SCApplication</string>
+	<key>NSSupportsSuddenTermination</key>
+	<false/>
+</dict>
+</plist>

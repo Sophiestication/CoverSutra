@@ -1,0 +1,5355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundles</key>
+	<array>
+		<dict>
+			<key>associated Xcode projects</key>
+			<array>
+				<string>../../CoverSutra.xcodeproj</string>
+			</array>
+			<key>change date</key>
+			<date>2001-01-01T00:00:00Z</date>
+			<key>class</key>
+			<string>BLBundleObject</string>
+			<key>errors</key>
+			<array/>
+			<key>files</key>
+			<array>
+				<dict>
+					<key>attachments</key>
+					<dict>
+						<key>backup</key>
+						<dict>
+							<key>1</key>
+							<dict>
+								<key>class</key>
+								<string>BLWrapperHandle</string>
+								<key>name</key>
+								<string>CoverSutra/InfoPlist/1/InfoPlist.strings</string>
+							</dict>
+						</dict>
+					</dict>
+					<key>change date</key>
+					<date>2011-01-09T09:12:06Z</date>
+					<key>class</key>
+					<string>BLStringsFileObject</string>
+					<key>errors</key>
+					<array/>
+					<key>flags</key>
+					<integer>0</integer>
+					<key>hash</key>
+					<string>26c2b5d5621efcd5456fec9b2923c774
+</string>
+					<key>name</key>
+					<string>InfoPlist.strings</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>NSHumanReadableCopyright</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Copyright © 2006-2011 Sophia Teutschler.</string>
+								<key>en</key>
+								<string>Copyright © 2006-2011 Sophia Teutschler.</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+					</array>
+					<key>plist file</key>
+					<false/>
+					<key>snapshots</key>
+					<dict/>
+					<key>versions</key>
+					<dict>
+						<key>en</key>
+						<string>1</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>attachments</key>
+					<dict>
+						<key>backup</key>
+						<dict>
+							<key>1</key>
+							<dict>
+								<key>class</key>
+								<string>BLWrapperHandle</string>
+								<key>name</key>
+								<string>CoverSutra/Localizable/1/Localizable.strings</string>
+							</dict>
+						</dict>
+					</dict>
+					<key>change date</key>
+					<date>2011-03-10T11:47:09Z</date>
+					<key>class</key>
+					<string>BLStringsFileObject</string>
+					<key>errors</key>
+					<array/>
+					<key>flags</key>
+					<integer>0</integer>
+					<key>hash</key>
+					<string>4b07b950234da2b8c0de748976127b7c
+</string>
+					<key>name</key>
+					<string>Localizable.strings</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Bezel</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>ITUNESNOTRUNNING_BEZEL_TEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>iTunes reagiert nicht</string>
+								<key>en</key>
+								<string>iTunes is not Running</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Bezel</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>ITUNESISBUSY_BEZEL_TEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>iTunes reagiert nicht</string>
+								<key>en</key>
+								<string>iTunes is Busy</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Bezel</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>ITUNESLAUNCHING_BEZEL_TEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Öffne iTunes</string>
+								<key>en</key>
+								<string>Launching iTunes</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Bezel</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>NOSONG_BEZEL_TEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kein Titel</string>
+								<key>en</key>
+								<string>No Song Selected</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Bezel</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>NOPLAYLIST_BEZEL_TEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Keine Wiedergabeliste</string>
+								<key>en</key>
+								<string>No Playlist Selected</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_NO_TITLE</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Fehlender Titel</string>
+								<key>en</key>
+								<string>Missing Title</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_NO_STREAMURL</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Unbekannter Stream</string>
+								<key>en</key>
+								<string>Unknown Stream URL</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_NO_ARTIST</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Unbekannter Interpret</string>
+								<key>en</key>
+								<string>Unknown Artist</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_NO_ALBUM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Unbekanntes Album</string>
+								<key>en</key>
+								<string>Unknown Album</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_VARIOUS_ARTISTS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Verschiedene Interpreten</string>
+								<key>en</key>
+								<string>Various Artists</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_LIBRARY_PLAYLIST_GROUP</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Mediathek</string>
+								<key>en</key>
+								<string>Library</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_PLAYLISTS_PLAYLIST_GROUP</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiedergabelisten</string>
+								<key>en</key>
+								<string>Playlists</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_FOLDERS_PLAYLIST_GROUP</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ordner</string>
+								<key>en</key>
+								<string>Folders</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_GENIUS_PLAYLIST_GROUP</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Genius</string>
+								<key>en</key>
+								<string>Genius</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_STORE_PLAYLIST_GROUP</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Store</string>
+								<key>en</key>
+								<string>Store</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_TRACKNUMBER_TEMPLATE</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Titel %1$ld</string>
+								<key>en</key>
+								<string>Track %1$ld</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_TRACKNUMBERANDCOUNT_TEMPLATE</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Titel %1$ld von %2$ld</string>
+								<key>en</key>
+								<string>Track %1$ld of %2$ld</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Library</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIALIBRARY_TITLEANDARTIST_TOOLTIP</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>%1$@
+von %2$@</string>
+								<key>en</key>
+								<string>%1$@
+by %2$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_PLAYALL_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle abspielen</string>
+								<key>en</key>
+								<string>Play All</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_NOSEARCHRESULTS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Keine Treffer gefunden</string>
+								<key>en</key>
+								<string>No Results Found</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_ADDTRACKTOPLAYLIST_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zu "%1$@" hinzufügen</string>
+								<key>en</key>
+								<string>Add to "%1$@"</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_ADDTRACKTOCURRENTPLAYLIST_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zur aktuellen Wiedergabeliste hinzufügen</string>
+								<key>en</key>
+								<string>Add to Current Playlist</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_FINDALL_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle</string>
+								<key>en</key>
+								<string>All</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_FINDARTIST_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Interpret</string>
+								<key>en</key>
+								<string>Artist</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_FINDALBUM_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Album</string>
+								<key>en</key>
+								<string>Album</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_FINDSONG_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Titel</string>
+								<key>en</key>
+								<string>Song</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Media Search</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>MEDIASEARCH_FINDPLAYLIST_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiedergabeliste</string>
+								<key>en</key>
+								<string>Playlist</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_BADSESSION_ERROR</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Anmeldung durch %1$@ fehlgeschlagen</string>
+								<key>en</key>
+								<string>Authentication failed for user %1$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_DISABLED_STATUS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Last.fm deaktiviert</string>
+								<key>en</key>
+								<string>Last.fm disabled</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_AUTHENTICATION_STATUS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Verbinde als %1$@…</string>
+								<key>en</key>
+								<string>Logging in as %1$@…</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_AUTHENTICATION_SUCCEEDED_STATUS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Verbunden als %1$@</string>
+								<key>en</key>
+								<string>Connected as %1$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_AUTHENTICATION_NONE_STATUS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nicht angemeldet</string>
+								<key>en</key>
+								<string>Not logged in</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_AUTHENTICATION_FAILED_STATUS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Anmeldung durch %1$@ fehlgeschlagen</string>
+								<key>en</key>
+								<string>Failed authentication as %1$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_SONGSUBMISSION_STATUS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Scrobble Titel für %1$@…</string>
+								<key>en</key>
+								<string>Submitting songs for user %1$@…</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_SONGSUBMISSION_FAILED_STATUS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Fehler während des scrobbelns am %1$@</string>
+								<key>en</key>
+								<string>Last song submission failed on %1$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Last.fm</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_SONGSUBMISSION_SUCCEEDED_STATUS</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zuletzt gescrobbelt am %1$@</string>
+								<key>en</key>
+								<string>Submitted songs on %1$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>SHOW_PLAYLIST_MENUITEM_TEMPLATE</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>%1$@ in iTunes anzeigen</string>
+								<key>en</key>
+								<string>Show %1$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>SHOW_TRACK_MENUITEM_TEMPLATE</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>%1$@  in iTunes anzeigen</string>
+								<key>en</key>
+								<string>Show %1$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>SHOW_TRACK_INFINDER_MENUITEM_TEMPLATE</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>"%1$@" im Finder anzeigen</string>
+								<key>en</key>
+								<string>Show "%1$@" in Finder</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>NOWPLAYING_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Aktueller Titel</string>
+								<key>en</key>
+								<string>Now Playing</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>NOSONG_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Keine Wiedergabe</string>
+								<key>en</key>
+								<string>No Song</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>OPENITUNES_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>iTunes öffnen</string>
+								<key>en</key>
+								<string>Open iTunes</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>HIDE_PLAYERCONTROLS_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Steuerung ausblenden</string>
+								<key>en</key>
+								<string>Hide Player Controls</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>SHOW_PLAYERCONTROLS_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Steuerung einblenden</string>
+								<key>en</key>
+								<string>Show Player Controls</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>HIDE_ALBUMCOVER_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Album Cover ausblenden</string>
+								<key>en</key>
+								<string>Hide Album Cover</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>SHOW_ALBUMCOVER_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Album Cover einblenden</string>
+								<key>en</key>
+								<string>Show Album Cover</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>DISABLE_SHORTCUTS_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kurzbefehle deaktivieren</string>
+								<key>en</key>
+								<string>Disable Shortcuts</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>ENABLE_SHORTCUTS_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kurzbefehle aktivieren</string>
+								<key>en</key>
+								<string>Enable Shortcuts</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>DISABLE_LASTFM_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Last.fm deaktivieren</string>
+								<key>en</key>
+								<string>Disable Last.fm</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>ENABLE_LASTFM_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Last.fm aktivieren</string>
+								<key>en</key>
+								<string>Enable Last.fm</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>PAUSE_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiedergabe          Leertaste</string>
+								<key>en</key>
+								<string>Pause          space     </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>PLAY_MENUITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Pause               Leertaste</string>
+								<key>en</key>
+								<string>Play           space     </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>DISC_MENUITEM_TEMPLATE</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CD-Nummer %1$ld</string>
+								<key>en</key>
+								<string>Disc %1$ld</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Menu Items</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>NOWPLAYING_STATUSITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sie hören: %1$@</string>
+								<key>en</key>
+								<string>Now Playing: %1$@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Application Window</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>SHUFFLE_BUTTON_TOOLTIP</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zufällige Wiedergabe ein- oder ausschalten</string>
+								<key>en</key>
+								<string>Turn shuffle on or off</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Application Window</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>REPEATMODE_BUTTON_TOOLTIP</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Spielt die Wiedergabeliste einmal oder mehrmals oder wiederholt das Objekt</string>
+								<key>en</key>
+								<string>Play playlist once, repeat playlist, or repeat item</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>GENERAL_PREFERENCES_ITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Allgemein</string>
+								<key>en</key>
+								<string>General</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>ALBUMCOVER_PREFERENCES_ITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Album Cover</string>
+								<key>en</key>
+								<string>Album Cover</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>SHORTCUTS_PREFERENCES_ITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kurzbefehle</string>
+								<key>en</key>
+								<string>Shortcuts</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LASTFM_PREFERENCES_ITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Last.fm</string>
+								<key>en</key>
+								<string>Last.fm</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>ADVANCED_PREFERENCES_ITEM</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Erweitert</string>
+								<key>en</key>
+								<string>Advanced</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>RESTARTREQUIRED_TEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neustart erforderlich</string>
+								<key>en</key>
+								<string>Restart required</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>RESTARTNOW_BUTTONTEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neu starten</string>
+								<key>en</key>
+								<string>Restart Now</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>LATER_BUTTONTEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Später</string>
+								<key>en</key>
+								<string>Later</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Preferences</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>RESTART_APPLICATION_INFORMATIVETEXT</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra muss neu gestartet werden um die Einstellungen zu übernehmen.</string>
+								<key>en</key>
+								<string>CoverSutra needs to restart itself for the new setting to take effect. Click Restart Now to proceed or Later to keep CoverSutra running.</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Space</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Leertaste</string>
+								<key>en</key>
+								<string>Space</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Use old shortcut</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Abbrechen</string>
+								<key>en</key>
+								<string>Use old shortcut</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Type shortcut</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kurzbefehl eingeben</string>
+								<key>en</key>
+								<string>Type shortcut</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Click to record shortcut</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kurzbefehl eingeben</string>
+								<key>en</key>
+								<string>Click to record shortcut</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Pad %@</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ziffernblock %@</string>
+								<key>en</key>
+								<string>Pad %@</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>The key combination %@ couldn't be used!</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Der Kurzbefehl %@ konnte nicht benutzt werden!</string>
+								<key>en</key>
+								<string>The key combination %@ couldn't be used!</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>The key combination "%@" couldn't be used, because %@.</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Der Kurzbefehl \\"%@\\" konnte nicht benutzt werden, da %@.</string>
+								<key>en</key>
+								<string>The key combination "%@" couldn't be used, because %@.</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>The key combination "%@" couldn't be used, because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard &amp; Mouse panel in System Preferences.)</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Der Kurzbefehl \\"%@\\" konnte nicht benutzt werden, da er bereits vom System belegt ist. (Wenn Sie diesen Kurzbefehl wirklich benutzen wollen, können Sie ihn meistens in den Tastatur &amp; Maus Einstellungen in den Systemeinstellungen umstellen.)</string>
+								<key>en</key>
+								<string>The key combination "%@" couldn't be used, because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard &amp; Mouse panel in System Preferences.)</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>The key combination "%@" couldn't be used, because it's already used by the menu item "%@".</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Der Kurzbefehl \\"%@\\" konnte nicht benutzt werden, da er bereits von dem Menüeintrag \\"%@\\" benutzt wird.</string>
+								<key>en</key>
+								<string>The key combination "%@" couldn't be used, because it's already used by the menu item "%@".</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Command + </string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Befehlstaste + </string>
+								<key>en</key>
+								<string>Command + </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Option + </string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wahltaste + </string>
+								<key>en</key>
+								<string>Option + </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Shift + </string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Umschalttaste + </string>
+								<key>en</key>
+								<string>Shift + </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Shortcut Recorder</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>Control + </string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>"ctrl"-Taste + </string>
+								<key>en</key>
+								<string>Control + </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+					</array>
+					<key>plist file</key>
+					<false/>
+					<key>snapshots</key>
+					<dict/>
+					<key>versions</key>
+					<dict>
+						<key>en</key>
+						<string>1</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>attachments</key>
+					<dict>
+						<key>backup</key>
+						<dict>
+							<key>1</key>
+							<dict>
+								<key>class</key>
+								<string>BLWrapperHandle</string>
+								<key>name</key>
+								<string>CoverSutra/MainMenu/1/MainMenu.xib</string>
+							</dict>
+						</dict>
+					</dict>
+					<key>change date</key>
+					<date>2011-02-17T08:20:15Z</date>
+					<key>class</key>
+					<string>BLNibFileObject</string>
+					<key>errors</key>
+					<array/>
+					<key>flags</key>
+					<integer>0</integer>
+					<key>hash</key>
+					<string>f3d99a72148fff30256af2f2f3ec618a
+</string>
+					<key>name</key>
+					<string>MainMenu.xib</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Show Player Controls"; ObjectID = "216";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>216.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Steuerung einblenden</string>
+								<key>en</key>
+								<string>Show Player Controls</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Quit CoverSutra"; ObjectID = "236";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>236.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra beenden</string>
+								<key>en</key>
+								<string>Quit CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Show Desktop Window"; ObjectID = "238";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>238.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Album Cover einblenden</string>
+								<key>en</key>
+								<string>Show Desktop Window</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Disable Shortcuts"; ObjectID = "239";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>239.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kurzbefehle deaktivieren</string>
+								<key>en</key>
+								<string>Disable Shortcuts</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "359";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>359.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einstellungen …</string>
+								<key>en</key>
+								<string>Preferences...</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "About CoverSutra"; ObjectID = "438";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>438.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Über CoverSutra</string>
+								<key>en</key>
+								<string>About CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "File"; ObjectID = "478";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>478.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ablage</string>
+								<key>en</key>
+								<string>File</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenu"; title = "File"; ObjectID = "479";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>479.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ablage</string>
+								<key>en</key>
+								<string>File</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Close"; ObjectID = "489";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>489.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Schließen</string>
+								<key>en</key>
+								<string>Close</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "CoverSutra"; ObjectID = "495";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>495.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra</string>
+								<key>en</key>
+								<string>CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenu"; title = "CoverSutra"; ObjectID = "496";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>496.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra</string>
+								<key>en</key>
+								<string>CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "497";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>497.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Andere ausblenden</string>
+								<key>en</key>
+								<string>Hide Others</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Show All"; ObjectID = "498";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>498.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle einblenden</string>
+								<key>en</key>
+								<string>Show All</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Quit CoverSutra"; ObjectID = "499";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>499.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra beenden</string>
+								<key>en</key>
+								<string>Quit CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "500";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>500.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einstellungen …</string>
+								<key>en</key>
+								<string>Preferences…</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "About CoverSutra"; ObjectID = "508";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>508.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Über CoverSutra</string>
+								<key>en</key>
+								<string>About CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Services"; ObjectID = "509";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>509.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dienste</string>
+								<key>en</key>
+								<string>Services</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenu"; title = "Services"; ObjectID = "510";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>510.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dienste</string>
+								<key>en</key>
+								<string>Services</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Hide CoverSutra"; ObjectID = "511";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>511.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra ausblenden</string>
+								<key>en</key>
+								<string>Hide CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Help"; ObjectID = "524";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>524.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hilfe</string>
+								<key>en</key>
+								<string>Help</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenu"; title = "Help"; ObjectID = "525";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>525.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Hilfe</string>
+								<key>en</key>
+								<string>Help</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "CoverSutra Help"; ObjectID = "526";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>526.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra Hilfe</string>
+								<key>en</key>
+								<string>CoverSutra Help</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Edit"; ObjectID = "527";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>527.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Bearbeiten</string>
+								<key>en</key>
+								<string>Edit</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenu"; title = "Edit"; ObjectID = "528";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>528.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Bearbeiten</string>
+								<key>en</key>
+								<string>Edit</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Delete"; ObjectID = "529";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>529.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Löschen</string>
+								<key>en</key>
+								<string>Delete</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Undo"; ObjectID = "530";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>530.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Widerrufen</string>
+								<key>en</key>
+								<string>Undo</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Paste"; ObjectID = "531";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>531.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einfügen</string>
+								<key>en</key>
+								<string>Paste</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Select All"; ObjectID = "533";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>533.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alles auswählen</string>
+								<key>en</key>
+								<string>Select All</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Copy"; ObjectID = "534";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>534.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kopieren</string>
+								<key>en</key>
+								<string>Copy</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Redo"; ObjectID = "535";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>535.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiederholen</string>
+								<key>en</key>
+								<string>Redo</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Cut"; ObjectID = "536";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>536.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ausschneiden</string>
+								<key>en</key>
+								<string>Cut</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Window"; ObjectID = "537";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>537.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Fenster</string>
+								<key>en</key>
+								<string>Window</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenu"; title = "Window"; ObjectID = "538";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>538.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Fenster</string>
+								<key>en</key>
+								<string>Window</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Zoom"; ObjectID = "539";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>539.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zoomen</string>
+								<key>en</key>
+								<string>Zoom</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "541";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>541.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alle nach vorne bringen</string>
+								<key>en</key>
+								<string>Bring All to Front</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Minimize"; ObjectID = "542";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>542.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Im Dock ablegen</string>
+								<key>en</key>
+								<string>Minimize</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Quit iTunes"; ObjectID = "590";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>590.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>iTunes beenden</string>
+								<key>en</key>
+								<string>Quit iTunes</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Controls"; ObjectID = "623";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>623.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Steuerung</string>
+								<key>en</key>
+								<string>Controls</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenu"; title = "Controls"; ObjectID = "624";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>624.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Steuerung</string>
+								<key>en</key>
+								<string>Controls</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Play          space"; ObjectID = "625";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>625.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Pause               Leertaste</string>
+								<key>en</key>
+								<string>Play          space</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Next"; ObjectID = "627";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>627.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Weiter</string>
+								<key>en</key>
+								<string>Next</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Previous"; ObjectID = "628";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>628.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zurück</string>
+								<key>en</key>
+								<string>Previous</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "630";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>630.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zufällige Wiedergabe</string>
+								<key>en</key>
+								<string>Shuffle</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Repeat Off"; ObjectID = "631";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>631.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiederholen aus</string>
+								<key>en</key>
+								<string>Repeat Off</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Repeat All"; ObjectID = "633";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>633.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Alles wiederholen</string>
+								<key>en</key>
+								<string>Repeat All</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Repeat One"; ObjectID = "634";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>634.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einen Titel wiederholen</string>
+								<key>en</key>
+								<string>Repeat One</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Volume Up"; ObjectID = "636";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>636.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lautstärke erhöhen</string>
+								<key>en</key>
+								<string>Volume Up</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Mute"; ObjectID = "637";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>637.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ton aus</string>
+								<key>en</key>
+								<string>Mute</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Volume Down"; ObjectID = "638";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>638.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lautstärke verringern</string>
+								<key>en</key>
+								<string>Volume Down</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Quit iTunes"; ObjectID = "649";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>649.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>iTunes beenden</string>
+								<key>en</key>
+								<string>Quit iTunes</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Latest News..."; ObjectID = "671";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>671.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Neuigkeiten …</string>
+								<key>en</key>
+								<string>Latest News...</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Send Feedback..."; ObjectID = "672";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>672.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Feedback zu CoverSutra …</string>
+								<key>en</key>
+								<string>Send Feedback...</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Disable Last.fm"; ObjectID = "685";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>685.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Last.fm deaktivieren</string>
+								<key>en</key>
+								<string>Disable Last.fm</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "My Rating"; ObjectID = "703";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>703.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Meine Wertung</string>
+								<key>en</key>
+								<string>My Rating</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenu"; title = "My Rating"; ObjectID = "704";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>704.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Meine Wertung</string>
+								<key>en</key>
+								<string>My Rating</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "None"; ObjectID = "706";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>706.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ohne</string>
+								<key>en</key>
+								<string>None</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "★"; ObjectID = "707";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>707.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★</string>
+								<key>en</key>
+								<string>★</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "★★"; ObjectID = "708";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>708.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★★</string>
+								<key>en</key>
+								<string>★★</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "★★★"; ObjectID = "709";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>709.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★★★</string>
+								<key>en</key>
+								<string>★★★</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "★★★★"; ObjectID = "710";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>710.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★★★★</string>
+								<key>en</key>
+								<string>★★★★</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "★★★★★"; ObjectID = "711";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>711.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★★★★★</string>
+								<key>en</key>
+								<string>★★★★★</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Show Player Controls"; ObjectID = "726";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>726.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Steuerung einblenden</string>
+								<key>en</key>
+								<string>Show Player Controls</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Show Desktop Window"; ObjectID = "727";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>727.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Album Cover einblenden</string>
+								<key>en</key>
+								<string>Show Desktop Window</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Disable Last.fm"; ObjectID = "731";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>731.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Last.fm deaktivieren</string>
+								<key>en</key>
+								<string>Disable Last.fm</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Disable Shortcuts"; ObjectID = "732";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>732.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Kurzbefehle deaktivieren</string>
+								<key>en</key>
+								<string>Disable Shortcuts</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "733";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>733.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einstellungen …</string>
+								<key>en</key>
+								<string>Preferences...</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Quit CoverSutra"; ObjectID = "740";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>740.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra beenden</string>
+								<key>en</key>
+								<string>Quit CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Quit iTunes"; ObjectID = "742";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>742.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>iTunes beenden</string>
+								<key>en</key>
+								<string>Quit iTunes</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "About CoverSutra"; ObjectID = "743";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>743.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Über CoverSutra</string>
+								<key>en</key>
+								<string>About CoverSutra</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Playlists"; ObjectID = "837";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>837.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiedergabelisten</string>
+								<key>en</key>
+								<string>Playlists</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "CoverSutra Help"; ObjectID = "866";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>866.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra Hilfe</string>
+								<key>en</key>
+								<string>CoverSutra Help</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "CoverSutra Help"; ObjectID = "868";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>868.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra Hilfe</string>
+								<key>en</key>
+								<string>CoverSutra Help</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+					</array>
+					<key>snapshots</key>
+					<dict/>
+					<key>versions</key>
+					<dict>
+						<key>de</key>
+						<string>1</string>
+						<key>en</key>
+						<string>1</string>
+						<key>es</key>
+						<string>1</string>
+						<key>fr</key>
+						<string>1</string>
+						<key>it</key>
+						<string>1</string>
+						<key>ja</key>
+						<string>1</string>
+						<key>nl</key>
+						<string>1</string>
+						<key>ru</key>
+						<string>1</string>
+						<key>zh-Hans</key>
+						<string>1</string>
+						<key>zh-Hant</key>
+						<string>1</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>attachments</key>
+					<dict>
+						<key>backup</key>
+						<dict>
+							<key>2</key>
+							<dict>
+								<key>class</key>
+								<string>BLWrapperHandle</string>
+								<key>name</key>
+								<string>CoverSutra/PreferencesWindow/2/PreferencesWindow.xib</string>
+							</dict>
+						</dict>
+					</dict>
+					<key>change date</key>
+					<date>2011-03-14T13:39:43Z</date>
+					<key>class</key>
+					<string>BLNibFileObject</string>
+					<key>errors</key>
+					<array/>
+					<key>flags</key>
+					<integer>0</integer>
+					<key>hash</key>
+					<string>9f639bfaddeaf0c006e01350fd48e1c9
+</string>
+					<key>name</key>
+					<string>PreferencesWindow.xib</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSWindow"; title = "Preferences"; ObjectID = "1";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>1.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Einstellungen</string>
+								<key>en</key>
+								<string>Preferences</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Show Now Playing Notifications:"; ObjectID = "48";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>48.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Benachrichtigungen:</string>
+								<key>en</key>
+								<string>Show Now Playing Notifications:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Show Application Icon in:"; ObjectID = "49";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>49.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Programmsymbol in:</string>
+								<key>en</key>
+								<string>Show Application Icon in:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Launch CoverSutra:"; ObjectID = "54";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>54.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Starte CoverSutra:</string>
+								<key>en</key>
+								<string>Launch CoverSutra:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "On login"; ObjectID = "55";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>55.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Bei der Anmeldung</string>
+								<key>en</key>
+								<string>On login</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "On song change"; ObjectID = "57";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>57.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Bei neuen Titeln</string>
+								<key>en</key>
+								<string>On song change</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "On album change"; ObjectID = "58";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>58.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Bei neuen Alben</string>
+								<key>en</key>
+								<string>On album change</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Never"; ObjectID = "59";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>59.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nie</string>
+								<key>en</key>
+								<string>Never</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Menu bar"; ObjectID = "61";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>61.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Menüleiste</string>
+								<key>en</key>
+								<string>Menu bar</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Dock"; ObjectID = "62";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>62.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Dock</string>
+								<key>en</key>
+								<string>Dock</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Select a case style for the overall look of album artwork:"; ObjectID = "77";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>77.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wählen Sie einen Stil für das allgemeine Aussehen der Alben Cover:</string>
+								<key>en</key>
+								<string>Select a case style for the overall look of album artwork:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Show/Hide iTunes:"; ObjectID = "256";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>256.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>iTunes ein-/ausblenden:</string>
+								<key>en</key>
+								<string>Show/Hide iTunes:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Show Current Song in iTunes:"; ObjectID = "257";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>257.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Aktuellen Titel zeigen:</string>
+								<key>en</key>
+								<string>Show Current Song in iTunes:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Show/Hide Player Controls:"; ObjectID = "258";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>258.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Steuerung ein-/ausblenden:</string>
+								<key>en</key>
+								<string>Show/Hide Player Controls:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Next Song:"; ObjectID = "265";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>265.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nächster Titel:</string>
+								<key>en</key>
+								<string>Next Song:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Play/Pause Current Song:"; ObjectID = "266";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>266.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiedergabe/Pause:</string>
+								<key>en</key>
+								<string>Play/Pause Current Song:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Previous Song:"; ObjectID = "267";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>267.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Vorheriger Titel:</string>
+								<key>en</key>
+								<string>Previous Song:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Toggle Repeat Mode:"; ObjectID = "273";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>273.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiederholungsart ändern:</string>
+								<key>en</key>
+								<string>Toggle Repeat Mode:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Shuffle On/Off:"; ObjectID = "274";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>274.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Shuffle ein-/ausblenden:</string>
+								<key>en</key>
+								<string>Shuffle On/Off:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Decrease Sound Volume:"; ObjectID = "281";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>281.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Leiser:</string>
+								<key>en</key>
+								<string>Decrease Sound Volume:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Toggle Mute iTunes:"; ObjectID = "282";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>282.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Ton aus:</string>
+								<key>en</key>
+								<string>Toggle Mute iTunes:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Increase Sound Volume:"; ObjectID = "283";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>283.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Lauter:</string>
+								<key>en</key>
+								<string>Increase Sound Volume:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSSegmentedCell"; 305.ibShadowedLabels[0] = "General"; ObjectID = "305";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>305.ibShadowedLabels[0]</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Allgemein</string>
+								<key>en</key>
+								<string>General</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSSegmentedCell"; 305.ibShadowedLabels[1] = "Music Search"; ObjectID = "305";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>305.ibShadowedLabels[1]</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Musiksuche</string>
+								<key>en</key>
+								<string>Music Search</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSSegmentedCell"; 305.ibShadowedLabels[2] = "User Rating"; ObjectID = "305";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>305.ibShadowedLabels[2]</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Meine Wertung</string>
+								<key>en</key>
+								<string>User Rating</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Show/Hide Music Search:"; ObjectID = "477";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>477.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Musiksuche ein-/ausblenden:</string>
+								<key>en</key>
+								<string>Show/Hide Music Search:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Search for All: "; ObjectID = "506";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>506.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Allgemeine Suche:</string>
+								<key>en</key>
+								<string>Search for All: </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Search for Songs: "; ObjectID = "507";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>507.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Suche nach Titel:</string>
+								<key>en</key>
+								<string>Search for Songs: </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Search for Artists: "; ObjectID = "508";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>508.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Suche nach Interpret:</string>
+								<key>en</key>
+								<string>Search for Artists: </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Search for Playlists: "; ObjectID = "509";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>509.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Suche nach Wiedergabelisten:</string>
+								<key>en</key>
+								<string>Search for Playlists: </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Search for Albums: "; ObjectID = "559";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>559.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Suche nach Album:</string>
+								<key>en</key>
+								<string>Search for Albums: </string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Music Search:"; ObjectID = "739";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>739.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Musiksuche:</string>
+								<key>en</key>
+								<string>Music Search:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Match only checked items"; ObjectID = "740";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>740.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Nur die in iTunes ausgewählten Titel durchsuchen</string>
+								<key>en</key>
+								<string>Match only checked items</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "★★★★★:"; ObjectID = "764";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>764.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★★★★★:</string>
+								<key>en</key>
+								<string>★★★★★:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Unrate Current Song:"; ObjectID = "765";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>765.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Meine Wertung zurücksetzen:</string>
+								<key>en</key>
+								<string>Unrate Current Song:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "★★:"; ObjectID = "766";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>766.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★★:</string>
+								<key>en</key>
+								<string>★★:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "★★★:"; ObjectID = "767";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>767.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★★★:</string>
+								<key>en</key>
+								<string>★★★:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "★★★★:"; ObjectID = "768";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>768.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★★★★:</string>
+								<key>en</key>
+								<string>★★★★:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "★:"; ObjectID = "769";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>769.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>★:</string>
+								<key>en</key>
+								<string>★:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Decrease My Rating:"; ObjectID = "774";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>774.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Meine Wertung verringern:</string>
+								<key>en</key>
+								<string>Decrease My Rating:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Increase My Rating:"; ObjectID = "775";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>775.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Meine Wertung erhöhen:</string>
+								<key>en</key>
+								<string>Increase My Rating:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Show Song Details"; ObjectID = "850";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>1</integer>
+							<key>key</key>
+							<string>850.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Titel Details</string>
+								<key>en</key>
+								<string>Show Song Details</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Show Album Cover on Desktop"; ObjectID = "851";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>851.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zeige Album Cover auf dem Schreibtisch</string>
+								<key>en</key>
+								<string>Show Album Cover on Desktop</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSBox"; title = "Account"; ObjectID = "868";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>868.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Profil</string>
+								<key>en</key>
+								<string>Account</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Last.fm connects you with your favorite music, and uses your unique taste to find new music, people, and concerts you'll like."; ObjectID = "872";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>872.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Last.fm ist ein Empfehlungsservice für Musik. Er hilft Ihnen dabei, auf Basis Ihrer gespielten Lieder neue Musik zu entdecken.</string>
+								<key>en</key>
+								<string>Last.fm connects you with your favorite music, and uses your unique taste to find new music, people, and concerts you'll like.</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Are you a Last.fm member?"; ObjectID = "886";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>886.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Sind Sie bereits Mitglied?</string>
+								<key>en</key>
+								<string>Are you a Last.fm member?</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Sign up now"; ObjectID = "888";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>888.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Jetzt Anmelden</string>
+								<key>en</key>
+								<string>Sign up now</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Learn More..."; ObjectID = "889";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>889.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Weitere Informationen</string>
+								<key>en</key>
+								<string>Learn More...</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Member Name:"; ObjectID = "890";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>890.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Mitgliedsname:</string>
+								<key>en</key>
+								<string>Member Name:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "891";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>891.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Passwort:</string>
+								<key>en</key>
+								<string>Password:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Join the social music revolution and sign up for free."; ObjectID = "896";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>896.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Registriere Sie sich für ein kostenloses Profil und entdecken Sie mehr Musik mit Last.fm.</string>
+								<key>en</key>
+								<string>Join the social music revolution and sign up for free.</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Last.fm"; ObjectID = "910";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>910.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Last.fm</string>
+								<key>en</key>
+								<string>Last.fm</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Enable:"; ObjectID = "912";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>912.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Aktiviere:</string>
+								<key>en</key>
+								<string>Enable:</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Now Playing Notifications are sent out whenever a new song starts playing in iTunes, but not when the change was triggered by the user."; ObjectID = "922";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>922.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Benachrichtigungen erscheinen nur bei automatischem Titelwechsel, nicht bei manuellem.</string>
+								<key>en</key>
+								<string>Now Playing Notifications are sent out whenever a new song starts playing in iTunes, but not when the change was triggered by the user.</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSTextFieldCell"; title = "Also automatically quits CoverSutra when iTunes quits."; ObjectID = "925";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>925.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>CoverSutra wird automatisch mit iTunes beendet.</string>
+								<key>en</key>
+								<string>Also automatically quits CoverSutra when iTunes quits.</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "When iTunes launches"; ObjectID = "926";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>926.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wenn iTunes startet</string>
+								<key>en</key>
+								<string>When iTunes launches</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Large"; ObjectID = "1011";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>1011.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Groß</string>
+								<key>en</key>
+								<string>Large</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSButtonCell"; title = "Medium"; ObjectID = "1012";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>1012.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Normal</string>
+								<key>en</key>
+								<string>Medium</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+					</array>
+					<key>snapshots</key>
+					<dict/>
+					<key>versions</key>
+					<dict>
+						<key>de</key>
+						<string>2</string>
+						<key>en</key>
+						<string>2</string>
+						<key>es</key>
+						<string>2</string>
+						<key>fr</key>
+						<string>2</string>
+						<key>it</key>
+						<string>2</string>
+						<key>ja</key>
+						<string>2</string>
+						<key>nl</key>
+						<string>2</string>
+						<key>ru</key>
+						<string>2</string>
+						<key>zh-Hans</key>
+						<string>2</string>
+						<key>zh-Hant</key>
+						<string>2</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>attachments</key>
+					<dict>
+						<key>backup</key>
+						<dict>
+							<key>2</key>
+							<dict>
+								<key>class</key>
+								<string>BLWrapperHandle</string>
+								<key>name</key>
+								<string>CoverSutra/MusicSearchWindow/2/MusicSearchWindow.xib</string>
+							</dict>
+						</dict>
+					</dict>
+					<key>change date</key>
+					<date>2011-03-14T10:44:06Z</date>
+					<key>class</key>
+					<string>BLNibFileObject</string>
+					<key>errors</key>
+					<array/>
+					<key>flags</key>
+					<integer>0</integer>
+					<key>hash</key>
+					<string>2efc631209b1885a99593d62d2903a33
+</string>
+					<key>name</key>
+					<string>MusicSearchWindow.xib</string>
+					<key>objects</key>
+					<array>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Play"; ObjectID = "63";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>63.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiedergeben</string>
+								<key>en</key>
+								<string>Play</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Add to iTunes DJ"; ObjectID = "64";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>64.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zu iTunes DJ hinzufügen</string>
+								<key>en</key>
+								<string>Add to iTunes DJ</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Add to Current Playlist"; ObjectID = "65";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>65.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zur aktuellen Wiedergabeliste hinzufügen</string>
+								<key>en</key>
+								<string>Add to Current Playlist</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Show"; ObjectID = "70";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>70.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>In iTunes anzeigen</string>
+								<key>en</key>
+								<string>Show</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "71";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>71.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Im Finder anzeigen</string>
+								<key>en</key>
+								<string>Show in Finder</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Play"; ObjectID = "78";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>78.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiedergeben</string>
+								<key>en</key>
+								<string>Play</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Show"; ObjectID = "79";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>79.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>In iTunes anzeigen</string>
+								<key>en</key>
+								<string>Show</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Add to Current Playlist"; ObjectID = "113";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>113.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zur aktuellen Wiedergabeliste hinzufügen</string>
+								<key>en</key>
+								<string>Add to Current Playlist</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Add to iTunes DJ"; ObjectID = "114";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>114.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Zu iTunes DJ hinzufügen</string>
+								<key>en</key>
+								<string>Add to iTunes DJ</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Play"; ObjectID = "115";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>115.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Wiedergeben</string>
+								<key>en</key>
+								<string>Play</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+						<dict>
+							<key>change date</key>
+							<date>2001-01-01T00:00:00Z</date>
+							<key>class</key>
+							<string>BLStringKeyObject</string>
+							<key>comment</key>
+							<string>Class = "NSMenuItem"; title = "Play Album"; ObjectID = "182";</string>
+							<key>errors</key>
+							<array/>
+							<key>flags</key>
+							<integer>0</integer>
+							<key>key</key>
+							<string>182.title</string>
+							<key>localizations</key>
+							<dict>
+								<key>de</key>
+								<string>Album wiedergeben</string>
+								<key>en</key>
+								<string>Play Album</string>
+							</dict>
+							<key>snapshots</key>
+							<dict/>
+						</dict>
+					</array>
+					<key>snapshots</key>
+					<dict/>
+					<key>versions</key>
+					<dict>
+						<key>de</key>
+						<string>2</string>
+						<key>en</key>
+						<string>2</string>
+						<key>es</key>
+						<string>2</string>
+						<key>fr</key>
+						<string>2</string>
+						<key>it</key>
+						<string>2</string>
+						<key>ja</key>
+						<string>2</string>
+						<key>nl</key>
+						<string>2</string>
+						<key>ru</key>
+						<string>2</string>
+						<key>zh-Hans</key>
+						<string>2</string>
+						<key>zh-Hant</key>
+						<string>2</string>
+					</dict>
+				</dict>
+			</array>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>..</string>
+			<key>naming style</key>
+			<integer>1</integer>
+			<key>referencing style</key>
+			<integer>1</integer>
+			<key>user name</key>
+			<string>CoverSutra</string>
+		</dict>
+	</array>
+	<key>languages</key>
+	<array>
+		<string>en</string>
+		<string>de</string>
+	</array>
+	<key>preferences</key>
+	<dict/>
+	<key>reference language</key>
+	<string>en</string>
+	<key>supports preview</key>
+	<true/>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>

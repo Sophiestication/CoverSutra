@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Jewel Boxing</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.sophiestication.mac.CoverSutra.jewelboxing</string>
+	<key>CFBundleName</key>
+	<string>JewelBoxing</string>
+	<key>CoverSutraAlbumCaseExtraSmall</key>
+	<dict>
+		<key>caseImage</key>
+		<string>extraSmall.tiff</string>
+		<key>coverFrame</key>
+		<string>{{7, 5}, {39, 39}}</string>
+		<key>size</key>
+		<string>{48, 48}</string>
+		<key>emptyCaseImage</key>
+		<string>emptyExtraSmall.tiff</string>
+	</dict>
+	<key>CoverSutraAlbumCaseSmall</key>
+	<dict>
+		<key>caseImage</key>
+		<string>small.tiff</string>
+		<key>coverFrame</key>
+		<string>{{15, 11}, {108, 106}}</string>
+		<key>size</key>
+		<string>{128, 128}</string>
+		<key>emptyCaseImage</key>
+		<string>emptySmall.tiff</string>
+	</dict>
+	<key>CoverSutraAlbumCaseMedium</key>
+	<dict>
+		<key>caseImage</key>
+		<string>medium.tiff</string>
+		<key>coverFrame</key>
+		<string>{{17, 5}, {121, 120}}</string>
+		<key>size</key>
+		<string>{144, 144}</string>
+		<key>emptyCaseImage</key>
+		<string>emptyMedium.tiff</string>
+	</dict>
+	<key>CoverSutraAlbumCaseLarge</key>
+	<dict>
+		<key>caseImage</key>
+		<string>large.tiff</string>
+		<key>coverFrame</key>
+		<string>{{33, 16}, {209, 203}}</string>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>emptyCaseImage</key>
+		<string>emptyLarge.tiff</string>
+		<key>coverMask</key>
+		<string>maskLarge.tiff</string>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2006-2010 Sophia Teutschler, All Rights reserved worldwide.</string>
+</dict>
+</plist>

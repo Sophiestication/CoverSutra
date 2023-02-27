@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>CoverSutra Help</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="anchors" />
+	<meta name="template" content="2box" />
+	<meta name="pagetype" content="access" />
+	<link href="sty/home_os.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body id="apple-pd">
+	<!--top navigation area-->
+	<div id="navbox" class="gradient">
+		<a name="access"></a>
+	</div><!--closes navbox-->
+	<!--end top navigation area-->
+	<div id="headerbox">
+		<div id="iconbox">
+			<img id="iconimg" src="../Shared/CoverSutraHelp.png" alt="CoverSutra Help Icon" height="32" width="32" />
+		</div><!--closesiconbox-->
+		<div id="pagetitle">
+			<h1>CoverSutra Help</h1>
+		</div><!--closes pagetitle-->
+	</div><!--closes page header-->
+	<div id="columnshell">
+		<div id="leftcolumn">
+			<div class="leftcolpadding">
+				<p class="subheadleft">Welcome to CoverSutra</p>
+				<p class="leftcolumntext">CoverSutra gives you a handy and attractive way to control iTunes without ever leaving your current app. See what's currently playing, pause and resume playback, change songs, and even enjoy your album's artwork without being interrupted from your work.</p>
+				
+				<div id="introbox">
+					<div class="introprimtext">
+						
+					<h4>Setting up CoverSutra</h4>
+					<ul>
+						<li><a href="help:anchor='setuplaunch' bookID=com.sophiestication.mac.CoverSutra.help">Automatically launch CoverSutra</a></li>
+						<li><a href="help:anchor='setupappicon' bookID=com.sophiestication.mac.CoverSutra.help">Customize the application icon</a></li>
+						<li><a href="help:anchor='setupalbumcover' bookID=com.sophiestication.mac.CoverSutra.help">Display Album Cover on your desktop</a></li>
+						<li><a href="help:anchor='setupshortcuts' bookID=com.sophiestication.mac.CoverSutra.help">Creating Global Shortcuts</a></li>
+					</ul>
+					
+					<h4>Using CoverSutra</h4>
+					<ul>
+						<li><a href="help:anchor='howtoshortcuts' bookID=com.sophiestication.mac.CoverSutra.help">Use Shortcuts to fast forward or rewind</a></li>
+						<li><a href="help:anchor='howtolastfm' bookID=com.sophiestication.mac.CoverSutra.help">Use Last.fm</a></li>
+					</ul>
+					</div><!--closes introprimtext-->
+				</div> <!--closes introbox -->
+			</div><!--closes leftcolpadding-->
+		</div><!--closes left column-->
+		<div id="rightcolumn">
+			<div class="rightcolpadding">
+				<div id="contentframe">
+					<p class="headboxtopright">SOLVING PROBLEMS</p>
+					<p class="boxlink"><a href="help:anchor='support' bookID=com.sophiestication.mac.CoverSutra.help">Tips for getting the best support experience</a></p>
+					<div id="rule">
+						<hr />
+					</div>
+						<p class="headboxtopright">OTHER RESOURCES</p>
+						<p class="boxlink"><a href="http://www.sophiestication.com/coversutra/help/">CoverSutra support page</a></p>
+						<p class="boxlink"><a href="http://www.sophiestication.com/">Sophiestication's web site</a></p>
+					<div id="rule">
+						<hr />
+					</div>
+					<p class="boxlink"><a href="help:anchor='requirements' bookID=com.sophiestication.mac.CoverSutra.help">CoverSutra requirements</a></p>
+				</div><!--closes contentframe-->
+			</div><!--closes rightcolpadding-->
+			
+			
+		</div><!--closes right column-->
+	</div><!--closes columnshell--><!--closes linkfeedbackbox-->
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+	ShortcutRecorder = {
+		SuperClass = NSControl;
+		Attributes = {
+		};
+	};
+}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/coversutra/!svn/ver/113/trunk/Agent
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/coversutra/!svn/ver/102/trunk/Agent/main.m
+END
+CoverSutraAgent_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coversutra/!svn/ver/52/trunk/Agent/CoverSutraAgent_Prefix.pch
+END
+SCLauncher.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coversutra/!svn/ver/109/trunk/Agent/SCLauncher.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coversutra/!svn/ver/111/trunk/Agent/Info.plist
+END
+CoverSutraAgent.entitlements
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coversutra/!svn/ver/109/trunk/Agent/CoverSutraAgent.entitlements
+END
+SCLauncher.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coversutra/!svn/ver/100/trunk/Agent/SCLauncher.h
+END

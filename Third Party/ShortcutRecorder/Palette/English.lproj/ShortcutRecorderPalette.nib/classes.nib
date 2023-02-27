@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = NSObject; LANGUAGE = ObjC; }, 
+        {
+            CLASS = ShortcutRecorder; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {delegate = id; }; 
+            SUPERCLASS = NSControl; 
+        }, 
+        {
+            CLASS = ShortcutRecorderPalette; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {shortcutRecorder = ShortcutRecorder; }; 
+            SUPERCLASS = IBPalette; 
+        }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,823 @@
+/* CSS task_multi.css*/
+/*Version 2.3 1-15-09*/
+
+p {
+	margin-top: 9px;
+	margin-bottom: 0px;
+	line-height: 18px;
+}
+
+#apple-pd {
+	margin-top: 2px;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-bottom: 24px;
+	background-color: #fff;
+	color: #333;
+	font-family: 'Lucida Grande', Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	min-width: 360px;
+	text-align: left;
+}
+
+/* START NAVBAR STYLES */
+
+#navbox { 
+	position: fixed; 
+	top: 0; 
+	left: 0; 
+	width: 100%; 
+	height: 20px; 
+	float: left; 
+	padding-top: -2px; 
+	border-bottom: 1px solid #939393;
+	background-color: #dddddd;
+	z-index: 99;
+}
+
+.gradient {
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#e9e9e9), to(#d1d1d1), color-stop(0.5, #d1d1d1));
+	-webkit-background-origin: border;
+}
+
+#navleftbox {
+	position: relative;
+	font-size: 10px; 
+	position: absolute; 
+	top: -1px;
+	left: 15px 
+}
+
+#navrightbox {
+	float: right;
+	position: relative;
+	top: -1px;
+	font-size: 10px;
+	margin-right: 24px; 
+}
+
+.navlink_left {
+	color: #333; 
+	font-weight: normal;
+	line-height: 22px;
+	text-align: left;
+	vertical-align: top;
+	text-shadow: #FFFFFF 0px 1px 0;  
+}
+
+.navlink_right {
+	color: #333;
+	font-weight: normal;
+	line-height: 22px;
+	margin-left: 8px;
+	text-align: right;
+	vertical-align: middle;
+	text-shadow: #FFFFFF 0px 1px 0;  
+ }
+
+
+/* End Navbar styles */
+
+/* START HEADER AREA STYLES */
+
+#headerbox {
+	margin-top: 46px;
+	margin-bottom: 23px;
+	padding-right: 6px;
+}
+
+h1 {
+	color: #000000;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 8px;
+	margin-bottom: 0;
+	text-align: left;
+}
+
+#iconbox {
+	margin-bottom: -3px;
+	float: left;
+}
+
+#iconimg {}
+
+#pagetitle {
+	border: solid 1px #fff;
+	margin-left: 40px;
+	margin-right: 45px;
+	width: 88%;
+}
+
+/* End Header Area Styles */
+
+
+/* EMBEDDED/INLINE LINK STYLES */
+
+a {
+	color: #3366CC;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #011E57;
+}
+
+.linkarrow {
+	font-family: 'Lucida Grande';
+	font-size: 10pt;
+	padding-left: 2px;
+	margin-top: 0px;
+}
+
+a.linkarrow:hover {
+	text-decoration: none;
+}
+
+.linkinline {
+	margin-top: 9px;
+	margin-bottom: 18px;
+}
+
+/* End Embedded/Inline Link Styles */
+
+
+/* START INTRO, TASK, OUTRO STYLES*/
+
+#introbox {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#introauxlist, #outroauxlist {
+	margin-top: 9px;
+	margin-bottom: 0px;
+}
+
+#introauxart, #outroauxart {
+	margin-top: 9px;
+	margin-bottom: 0px;
+}
+
+.introauxoption, .outroauxoption {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#introauxoptionbulletlongtext ol, #outroauxoptionbulletlongtext ol {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#introauxoptionbulletlongtext li, #outroauxoptionbulletlongtext li {
+	font-size: 18px;
+	color: #666;
+	list-style-position: outside;
+	list-style-type: none;
+	position: relative;
+	left: -23px;
+	line-height: 16px;
+	text-indent: 0px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.introauxoptionbulletlongimage, .outroauxoptionbulletlongimage {
+	position: relative;
+	left: -25px;
+	padding-top: 9px;
+	padding-bottom: 8px;
+}
+
+
+.introprimtext, outroprimtext {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.introauxartshorttext, .outroauxartshorttext {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100%;
+}
+
+.introprimtextlongtext,.outroprimtextlongtext, p.introprimtextlongtext, p.outroprimtextlongtext {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.introwarning, .introimportant, .intronote, .intronotice, .outrowarning, .outroimportant, .outronote, .outronotice {
+	position: relative;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.introwarningsubbullet, .introimportantsubbullet, .intronotesubbullet, .intronoticesubbullet, .outrowarningsubbullet, .outroimportantsubbullet, outronotesubbullet, .outronoticesubbullet {
+	padding-top: 0px;
+}
+
+
+.introwarningprefix, .introimportantprefix, .intronoteprefix, .intronoticeprefix, .outrowarningprefix, .outroimportantprefix, .outronoteprefix, .outronoticeprefix {
+	position: relative;
+	left: 0px;
+	font-size: 11px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-right: 5px;
+	text-transform: uppercase;
+	line-height: 16px;
+	word-spacing: -2pt;
+	letter-spacing: 1pt;
+
+}
+
+.introwarninglongtext, .introimportantlongtext, .intronotelongtext, .intronoticelongtext, .taskwarninglongtext, .taskimportantlongtext, .tasknotelongtext, .tasknoticelongtext, .outrowarninglongtext, .outroimportantlongtext, .outronotelongtext, .outronoticelongtext {
+	margin-top: 18px;
+	margin-bottom: 0px;
+	position: relative;
+	left: 0;
+}
+
+pre {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.introauxcode, .outroauxcode, .taskauxcode {
+	position: relative;
+	left: 0;
+	font-size: 9pt;
+	line-height: 12pt;
+	margin-top: 9px;
+	margin-bottom: 0px;
+}
+
+.introauxpair, .outroauxpair {
+	position: relative;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+ 
+.introauxpairshorttext, .outroauxpairshorttext {
+	position: relative;
+	left: 0px;
+	font-weight: bold;
+	margin-top: 9px;
+	margin-bottom: 0px;
+	padding-right: 2px;
+}
+
+.introauxpairlongtext, .outroauxpairlongtext {
+	margin-top: 9px;
+	margin-bottom: 0px;
+	position: relative;
+	left: 0;
+}
+
+#art1 {
+	margin-top: 4px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 8px;
+}
+
+#art2 {
+	margin-top: 0px;
+	padding-bottom: 12px;
+}
+
+.taskcontent {
+	padding-left: 20px;
+	padding-right: 15px;
+	padding-top: 8px;
+	padding-bottom: 0px;
+	text-align: left;
+}
+
+.taskprimtext {
+	margin-bottom: 0px;
+}
+
+.taskprimtextlongtext {
+	color: #000;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: bold;
+	margin-top: 1px;
+}	
+
+.taskauxcontent {
+	margin-top: 18px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.taskprimcontent {
+	margin-bottom: 19px;
+}
+
+.taskauxoptionintrolongtext,.taskauxartshorttext, p.taskauxoptionintrolongtext, p.taskauxartshorttext {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+p.taskauxoptionlongtext {
+	marign-top: 0px;
+	margin-bottom: 8px;
+}
+
+.taskauxbullet {
+	list-style-position: inside;
+	list-style-type: none;	
+}
+
+.taskauxlinkplain {
+	position: relative;
+	left: 0;
+}
+
+.taskauxlinksubbullet {
+	position: relative;
+	left: -20px;
+	margin-top: 9px;
+}
+
+.taskauxlinksubnumber {
+	position: relative;
+	left: -20px;
+}
+
+
+.taskauxlinktext {
+	position: relative;
+	left: 0px;
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+
+.taskauxlinkshowall {
+	font-size: 10px;
+	font-weight: bold;
+	margin-left: 52px;
+	margin-right: 45px;
+	margin-top: 0;
+	text-transform: uppercase;
+	overflow: visible;
+}
+
+/* This .text style is only used in for Bullet lists */
+.text, p.text {
+	color: #333;
+	font-family: 'Lucida Grande', Arial, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	position: relative;
+	text-indent: 0px;
+	left: -3px;
+	top: 0px;
+}
+
+/* This .text style is only used in for Number lists */
+.textlistnumber, p.textlistnumber  {
+	color: #333;
+	font-family: 'Lucida Grande', Arial, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	line-height: 18px;
+	margin-bottom: 0px;
+	position: relative;
+	text-indent: 0px;
+	left: 0;
+	top: 0px;
+}
+
+/* This style is used when a list item <li> has multiple paragraphs of text */
+.listparagraph, p.listparagraph {
+	color: #333;
+	font-family: 'Lucida Grande', Arial, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16px;
+	margin-bottom: 0px;
+	position: relative;
+	text-indent: 0px;
+	left: -3px;
+	top: 0px;
+}
+
+#taskauxlistnumbered ol, #tasklistnumbered ol, #taskauxlistbulleted ol, #tasklistbulleted ol, taskauxoptionlonglistnumbertext ol {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#taskauxlistnumbered li, #tasklistnumbered li {
+	list-style-position: outside;
+	list-style-type: decimal;
+	position: relative;
+	left: -20px;
+	line-height: 16px;
+	text-indent: 0px;
+	text-align: left;
+	vertical-align: bottom;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100%;
+}
+
+#taskauxlistbulleted li, #tasklistbulleted li {
+	font-size: 18px;
+	color: #666;
+	list-style-position: outside;
+	list-style-type: none;
+	position: relative;
+	left: -17px;
+	line-height: 16px;
+	text-indent: 0;
+	text-align: left;
+	width: 100%;
+	margin-top: 0px;
+}
+
+ul li:before {
+   content: counter(mycounter, square) "";
+    color : #666;
+    font-size : 100%;
+    position: relative;
+    top: -.05em;
+    float: left;
+    margin-right : .25em;
+    margin-left : -1.1em;
+    margin-bottom: 0em;
+} 
+
+#taskauxlistbulleted li:before {
+   	content: counter(mycounter, square) "";
+    color : #666;
+    font-size : 100%;
+    position: relative;
+    top: -.05em;
+    float: left;
+    margin-right : .25em;
+    margin-left : -1em;
+    margin-bottom: 0em;
+} 
+
+#taskauxoptionbulletlongtext li:before {
+   	content: counter(mycounter, square) "";
+    color : #666;
+    font-size : 100%;
+    position: relative;
+    top: -.05em;
+    float: left;
+    margin-right : .25em;
+    margin-left : -1.1em;
+    margin-bottom: 0em;
+} 
+
+.taskauxart {
+	font-size: 18px;
+	color: #666;
+	list-style-position: outside;
+	list-style-type: square;
+	position: relative;
+	left: -22px;
+	line-height: 15px;
+	text-indent: 0;
+	text-align: left;
+	width: 100%;
+	margin-top: 2px;
+}
+
+#taskauxoptionlonglistnumbertext li {
+	list-style-position: outside;
+	list-style-type: decimal;
+	position: relative;
+	left: 0px;
+	line-height: 18px;
+	padding-right: 15px;
+	text-indent: 0px;
+	margin-left: -20px;
+	width: 100%;
+}
+
+#taskauxoptionbulletlongtext li {
+	position: relative;
+	font-size: 18px;
+	line-height: 16px;
+	color: #666;
+	list-style-position: outside;
+	list-style-type: none;
+	position: relative;
+	left: -42px;
+	text-indent: 0px;
+	text-align: left;
+	vertical-align: bottom;
+	margin-top: -7px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.taskauxartplain {
+	position: relative;
+	left: 0px;
+	margin-top: 0px;
+	margin-bottom: 9px;
+}
+
+.taskauxartsubnumber {
+	position: relative;
+	left: -20px;
+	margin-top: 7px;
+	margin-bottom: -4px;
+}
+
+.taskauxartsubbullet {
+	position: relative;
+	left: -19px;
+	margin-top: 6px;
+	padding-bottom: 0px;
+}
+
+.taskauxartsubnumbersubbullet {
+	position: relative;
+	left: -4px;
+	top: -2px;
+	padding-top: 18px;
+	padding-bottom: 0px;
+}
+
+.taskauxoptionlongtextimage {
+	position: relative;
+	left: -25px;
+	padding-top: 9px;
+	padding-bottom: 0px;
+}
+
+.taskauxlink {
+	position: relative;
+	left: 0px;
+	padding-right: 15px;
+	margin-top: 9px;
+	margin-bottom: 9px;
+	width: 100%;
+}
+
+.taskauxoptionlonglistnumberimage {
+	position: relative;
+	left: 0px;
+	padding-top: 0px;
+	padding-bottom: 9px;
+}
+
+.taskauxoptionbulletlongimage {
+	position: relative;
+	padding-top: 0px;
+	padding-bottom: 9px;
+}
+
+.taskauxoptionoutrolongtext {
+	margin-top: 0px;
+}
+
+.taskauxpair {
+	position: relative;
+	left: -17px;
+}
+
+.taskauxpairplain {
+	position: relative;
+	left: 0;
+}
+
+.taskauxpairnumber {
+	position: relative;
+	left: -19px;
+}
+
+.taskauxpairshorttext {
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	position: relative;
+	left: 0;
+}
+
+.taskauxpairlongtext {
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+
+.taskwarningsubbullet, .taskimportantsubbullet, .tasklegalsubbullet, .tasknotesubbullet, .tasknoticesubbullet {
+	position: relative;
+	margin-left: 18px;
+	margin-bottom: 0px;
+}
+
+.taskwarningsubnumber, .taskimportantsubnumber, .tasklegalsubnumber, .tasknotesubnumber, .tasknoticesubnumber {
+	position: relative;
+	margin-left: -20px;
+	margin-bottom: 0px;
+}
+
+.taskwarningplain, .taskimportantplain, .tasklegalplain, .tasknoteplain, .tasknoticeplain {
+	position: relative;
+	margin-bottom: 8px;
+}
+
+.taskwarningprefix, .taskimportantprefix, .tasklegal, .tasknoteprefix, .tasknoticeprefix {
+	font-size: 11px;
+	font-weight: bold;
+	margin-top: 9px;
+	margin-bottom: 9px;
+	padding-right: 4px;
+	text-transform: uppercase;
+	line-height: 16px;
+	word-spacing: -2pt;
+	letter-spacing: 1pt;
+}
+
+.taskauxcodesubbullet {
+	position: relative;
+	left: -16px;
+	font-size: 9pt;
+	line-height: 12pt;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+
+.taskauxcodesubnumber {
+	position: relative;
+	left: -18px;
+	font-size: 9pt;
+	line-height: 12pt;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+
+#outrobox {
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+/* End Intro, Task, Outro Styles */
+
+/* TASKBOX WRAPPERS */
+
+#taskbox1 {
+	clear: both;
+	position: relative;
+	margin-top: 18px;
+	width: 100%;
+}
+
+#taskbox2 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskbox3 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskbox4 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskbox5 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskbox6 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskbox7 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskbox8 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskbox9 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskbox10 {
+	position: relative;
+	padding-top: 23px;
+	width: 100%;
+}
+
+#taskframe1, #taskframe2, #taskframe3, #taskframe4, #taskframe5, #taskframe6, #taskframe7, #taskframe8, #taskframe9, #taskframe10 {
+	background-color: #FFFFFF;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border: 1px solid #d7d7d7;
+	padding-top: 12px;
+	padding-bottom: 7px;
+}
+
+/* End Taskbox Wrappers */
+
+
+/* START SHADOW STYLE */
+
+.shadow {
+	-webkit-box-shadow: 0px 2px 4px #CCCCCC;
+	-moz-box-shadow: 0px 2px 4px #CCCCCC;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+}
+
+/* End Shadow Style */
+
+
+/* START RULE STYLES*/
+
+
+#rule {
+	margin-top: 22px;
+	margin-bottom: 0px;
+}
+
+hr {
+	background-color: #F6F6F6;
+	background-repeat: repeat-x;
+	height: 2px;
+	width: 100%;
+	border-top: 1px solid #D0D0D0;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin-top: 0px;
+	margin-bottom: 9px;
+}
+
+/* End Rule Styles */
+
+/* RELATED TOPICS STYLES */
+
+h3 {
+	color: #000000;
+	font-size: 9pt;
+	font-weight: bold;
+	line-height: 12pt;
+	margin-top: 1px;
+	margin-bottom: 3px;
+	text-align: left;
+}
+
+#linkinternalbox, #linkexternalbox {
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+/* START FEEDBACK STYLES */
+
+#linkfeedbackbox {
+	margin-top: 19px;
+	margin-bottom: 0px;
+}
+
+.linkinternal, .linkexternal {
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+
+.linkfeedback {
+	color: #333;
+	margin-top: 0px;
+	margin-bottom: 1px;
+}
+
+/* End Feedback Styles */

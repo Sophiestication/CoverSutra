@@ -1,0 +1,37 @@
+//
+//  main.m
+//  CoverSutraAgent
+//
+//  Created by Sophia Teutschler on 20.09.08.
+//  Copyright Sophiestication Software 2008. All rights reserved.
+//
+
+#import <Cocoa/Cocoa.h>
+
+#import "SCLauncher.h"
+
+int main (int argc, const char * argv[]) {
+	@autoreleasepool {
+
+		NSRunLoop* runLoop = [NSRunLoop currentRunLoop];
+		
+		// Save some memory by disabled the URL cache
+		[[NSURLCache sharedURLCache] setDiskCapacity:0];
+		[[NSURLCache sharedURLCache] setMemoryCapacity:0];
+
+		// Make a new launcher
+		SCLauncher* launcher = [[SCLauncher alloc] init];
+
+		// and wait for input events
+		while(1) {
+			BOOL keepRunning = [runLoop runMode:NSDefaultRunLoopMode beforeDate:[NSDate distantFuture]]; // Wait for input events
+
+			if(!keepRunning || launcher.needsToTerminateAgent) {
+				break;
+			}
+		}
+		
+	}
+
+    return 0;
+}

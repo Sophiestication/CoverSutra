@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastDocumentSavePath</key>
+	<string>/Users/sophia/Documents/Projekte/CoverSutra/Localization/CoverSutra.ldb</string>
+	<key>lastOpenedFolder</key>
+	<string>/Users/sophia/Documents/Projekte/CoverSutra/Localization</string>
+	<key>openFolderAfterWriteOut</key>
+	<false/>
+	<key>saveToOneFile</key>
+	<false/>
+	<key>showComments</key>
+	<false/>
+	<key>showEmptyStrings</key>
+	<false/>
+	<key>showRemovedStrings</key>
+	<false/>
+</dict>
+</plist>
